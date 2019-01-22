@@ -160,8 +160,7 @@ public:
         hashGenesisBlock = genesis.GetHash();
         assert(hashGenesisBlock == uint256("0x828e579a02934826dbfa53a3dc33c169725b588ca6038e733d7066a5960b02f5"));
         assert(genesis.hashMerkleRoot == uint256("0x642629321e8a13ad5792febc7edc01609eb45dda1b1f8502c0eeb8778a9f50a8"));
-
-    	vSeeds.push_back(CDNSSeedData("68.183.177.70", "68.183.177.70"));             // seed1
+	
 	vSeeds.push_back(CDNSSeedData("139.59.241.161", "139.59.241.161"));             // masterseed
 	
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 95); // f
