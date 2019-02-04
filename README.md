@@ -1,10 +1,7 @@
-RTW Core
+Fruit Core
 =====================================
 
-[![CircleCI](https://circleci.com/bb/nur1labs/aria.svg?style=svg)](https://circleci.com/bb/nur1labs/aria)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/85f4692fd45249dc9a6fc37846bedb49)](https://www.codacy.com?utm_source=git@bitbucket.org&amp;utm_medium=referral&amp;utm_content=nur1labs/recycle&amp;utm_campaign=Badge_Grade)
-
-RTW-Core For Public System MuBdI
+Fruit-Core For Public System MuBdI
 
 # How to Install Ubuntu
 ```
